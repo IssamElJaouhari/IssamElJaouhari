@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Issam El JAOUHARI</h1>
-<h3 align="center">I'm Software Developer Hi👋 How are you! I'm Issam El Jaouhari, known as Izzy Software Developer I made unexpected stuff when i touch the key🎹</h3>
+<h1 align="center"> I'm Issam El JAOUHARI</h1>
+<h3 align="center">Hi 👋, How are you! I'm Issam El Jaouhari, known as Izzy Software Developer I made unexpected stuff when i touch the key🎹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issameljaouhari&label=Profile%20views&color=0e75b6&style=flat" alt="issameljaouhari" /> </p>
 
