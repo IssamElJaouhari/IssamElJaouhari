@@ -1,4 +1,4 @@
-> ⚠️ Some repos here are test/demo projects used while teaching students. ⚠️
+> ⚠️ Some repos here are test/demo projects I use while teaching students. ⚠️
 
 ---
 
@@ -6,12 +6,13 @@
 
 Full-Stack Developer · Instructor · Coach · Rabat, Morocco 🇲🇦
 
-I build web & mobile products and teach developers how to build theirs.
+I build web and mobile products, and I help developers grow through teaching and coaching.
 
 - 🔧 Stack: React, Next.js, Node.js, Express, MongoDB, TypeScript
-- 🎓 Instructor at GoMyCode — JavaScript, React, Node.js, Java, C
-- 🌐 [issameljaouhari.me](https://issameljaouhari.me/) — portfolio & coaching
-- 📩 [issameljaouhariel@gmail.com](mailto:issameljaouhariel@gmail.com)
+- 🎓 Instructor at GoMyCode
+- 🌐 Developer Portfolio: [issameljaouhari.me](https://www.issameljaouhari.me/)
+- 🚀 Coaching: [coach.issameljaouhari.me](https://coach.issameljaouhari.me/)
+- 📩 Email: [issameljaouhariel@gmail.com](mailto:issameljaouhariel@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issameljaouhari-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/issameljaouhari)
 [![Profile Views](https://komarev.com/ghpvc/?username=issameljaouhari&color=0e75b6&style=flat)](https://github.com/IssamElJaouhari)
