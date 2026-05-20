@@ -4,9 +4,7 @@
 
 # Issam El Jaouhari
 
-Full-Stack Developer · Instructor · Coach · Rabat, Morocco 🇲🇦
-
-I build web and mobile products, and I help developers grow through teaching and coaching.
+I'm **Issam El Jaouhari** — known as Izzy. I build clean, scalable web and mobile solutions using modern stacks, and I partner with ambitious developers to achieve technical mastery through rigorous 1:1 mentorship and real-world engineering. As an instructor, I simplify complex concepts and help future developers think like engineers.
 
 - 🔧 Stack: React, Next.js, Node.js, Express, MongoDB, TypeScript
 - 🎓 Instructor at GoMyCode
