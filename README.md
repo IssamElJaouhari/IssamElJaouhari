@@ -10,8 +10,8 @@ I build web and mobile products, and I help developers grow through teaching and
 
 - 🔧 Stack: React, Next.js, Node.js, Express, MongoDB, TypeScript
 - 🎓 Instructor at GoMyCode
-- 🌐 Developer Portfolio: [issameljaouhari.me](https://www.issameljaouhari.me/)
-- 🚀 Coaching: [coach.issameljaouhari.me](https://coach.issameljaouhari.me/)
+- 👨🏽‍💻 Developer Portfolio: [issameljaouhari.me](https://www.issameljaouhari.me/)
+- 👨🏻‍🏫 Coaching: [coach.issameljaouhari.me](https://coach.issameljaouhari.me/)
 - 📩 Email: [issameljaouhariel@gmail.com](mailto:issameljaouhariel@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issameljaouhari-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/issameljaouhari)
