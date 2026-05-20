@@ -1,10 +1,10 @@
-> ⚠️ Some repos here are test/demo projects used while teaching students. For real work, check the pinned repos.
+> ⚠️ Some repos here are test/demo projects used while teaching students. ⚠️
 
 ---
 
 # Issam El Jaouhari
 
-Full-Stack Developer · Instructor · Coach — Rabat, Morocco 🇲🇦
+Full-Stack Developer · Instructor · Coach · Rabat, Morocco 🇲🇦
 
 I build web & mobile products and teach developers how to build theirs.
 
@@ -14,7 +14,6 @@ I build web & mobile products and teach developers how to build theirs.
 - 📩 [issameljaouhariel@gmail.com](mailto:issameljaouhariel@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issameljaouhari-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/issameljaouhari)
-[![Twitter](https://img.shields.io/badge/Twitter-@issameljaouhari-1DA1F2?style=flat&logo=twitter)](https://twitter.com/issameljaouhari)
 [![Profile Views](https://komarev.com/ghpvc/?username=issameljaouhari&color=0e75b6&style=flat)](https://github.com/IssamElJaouhari)
 
 ---
